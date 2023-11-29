@@ -12,3 +12,13 @@ distribution: using a bayesian method on cancer survival times. Communications
 in Statistics - Theory and Methods 29(7), 1419–1433 (2000) https://doi.org/10.
 1080/03610920008832554 https://doi.org/10.1080/03610920008832554
 
+
+
+## Data Set 2: Depressive data
+
+This dataset consists of the scores of the "general rating of affective symptoms for preschoolers" (GRASP) scale of children, which measures the behavioral and emotional problems of children. 
+
+### Reference:
+Leiva, V., Sanhueza, A., Kotz, S., Araneda, N.: A unified mixture model based
+on the inverse gaussian distribution. Pakistan Journal of Statistics 26, 445–460
+(2010)
