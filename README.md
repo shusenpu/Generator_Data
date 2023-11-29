@@ -4,7 +4,7 @@ If you have any questions regarding the data, please contact Dr. Shusen Pu at sp
 
 ## Data Set 1: the Chemotherapy data
 
-This dataset is a subset of data reported by Bekker Bekker et al (2000), which represents the survival times (in years) of a group of 46 patients who received chemotherapy treatment alone. 
+This dataset is a subset of data reported by Bekker Bekker et al. (2000), which represents the survival times (in years) of a group of 46 patients who received chemotherapy treatment alone. 
 
 ### Reference (source of the data):
 A. Bekker, J.J.J.R., Mosteit, P.J.: A generalization of the compound rayleigh
@@ -29,7 +29,7 @@ on the inverse gaussian distribution. Pakistan Journal of Statistics 26, 445–4
 
 ## Data Set 3: Covid-Mexico data
 
-This dataset recorded the mortality rates of the patients infected by the COVID-19 pandemic in Mexico and was studied by Zhou et. al 2023. This dataset consists of 106 observations from March 31, 2020, to July 20, 2020.
+This dataset recorded the mortality rates of the patients infected by the COVID-19 pandemic in Mexico and was studied by Zhou et al. 2023. This dataset consists of 106 observations from March 31, 2020, to July 20, 2020.
 
 
 ### Reference (source of the data):
