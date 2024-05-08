@@ -31,6 +31,10 @@ on the inverse gaussian distribution. Pakistan Journal of Statistics 26, 445–4
 
 This dataset recorded the mortality rates of the patients infected by the COVID-19 pandemic in Mexico and was studied by Zhou et al. 2023. This dataset consists of 106 observations from March 31, 2020, to July 20, 2020.
 
+## Example Code
+
+Example R code is provided.
+
 
 ### Reference (source of the data):
 Zhou, Y., Ahmad, Z., Almaspoor, Z., Khan, F., Iqbal, Z., El-Morshedy, M., et al.:
